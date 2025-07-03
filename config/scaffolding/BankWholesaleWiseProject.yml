@@ -1,0 +1,9 @@
+version: "1.0"
+info:
+  model: int-scaffold
+packages:
+- name: BankWholesaleWiseProject
+  gitServerName: MTest
+  gitUrl: https://github.com/wholesalePOC
+  gitUsername: wholesalePOC
+  gitBranch: main
